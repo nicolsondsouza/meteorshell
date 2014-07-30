@@ -9,9 +9,8 @@ and will print on the screen the output.
 I did this software mainly to understand how the "meteor deploy"
 PaaS/sandbox is done. Please don't do bad things :)
 
-source: http://github.com/grigio/meteor-shell
-author: Luigi Maselli
+source: http://github.com/nicolsondsouza/meteor-shell
+author: Nicolson Dsouza
 
-Known Bugs: some commands need a page restart
-
-A dedicated post on [Meteor Shell](http://grigio.org/meteor_shell_see_what_s_behind_meteor_deploy).
+This is not my code, I took it from somewhere else repo.
+I have modifed it, to use it for my own Digital Ocean.
